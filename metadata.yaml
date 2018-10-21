@@ -1,5 +1,5 @@
 _repo: London-in-1731_2822
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   unknown_contributor:
     agent_name: Defoe, Daniel
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'London (England) -- History -- 18th century'
 - !lcc 'DA'
 - !lcsh 'London (England) -- Description and travel'
+- GITenberg
 title: London in 1731
 url: http://www.gutenberg.org/ebooks/2822
